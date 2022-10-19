@@ -11,6 +11,8 @@ public class ModItems {
 
     public static final Item END_STEW = registerItem("end_stew",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item IRIDIUM = registerItem("iridium",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(EndMod.MOD_ID, name), item);
