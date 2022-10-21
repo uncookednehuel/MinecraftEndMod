@@ -1,4 +1,9 @@
 {
   "item.endmod.end_stew": "End Stew",
-  "item.endmod.iridium": "Iridium"
+  "item.endmod.iridium": "Iridium",
+
+  "block.endmod.iridium_block": "Block of Iridium",
+  "block.endmod.iridium_ore": "Iridium Ore",
+
+  "itemGroup.endmod.endmod": "End Mod"
 }
